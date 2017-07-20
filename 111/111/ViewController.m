@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+<<<<<<< HEAD
     
     // 注释 ： 第一主分支
     
@@ -23,6 +24,9 @@
     
     // 注释 ： 第三主分支
     
+=======
+    // Do any additional setup after loading the view, typically from a nib.
+>>>>>>> parent of cfc6ff7... 第一主分支
 }
 
 
